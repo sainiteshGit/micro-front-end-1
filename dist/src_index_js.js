@@ -14,7 +14,7 @@
   \**********************/
 /***/ (function() {
 
-eval("document.querySelector('#root').innerHTML=`<h1> Micro-Front-End-1 updates for the index....|||||...||||....!!!!!...//...//</h1>`\nconsole.log(\"micro-front-end-1\");\n\n//# sourceURL=webpack://micro-front-end-1/./src/index.js?");
+eval("document.querySelector('#root').innerHTML=`<h1> Micro-Front-End-1 updates for the inde.......!!!!!.....</h1>`\nconsole.log(\"micro-front-end-1\");\n\n//# sourceURL=webpack://micro-front-end-1/./src/index.js?");
 
 /***/ })
 
