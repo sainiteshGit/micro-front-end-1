@@ -1,2 +1,2 @@
 document.querySelector('#root').innerHTML=`<h1> Micro-Front-End-1 updates for the inde.......!!!!!.....</h1>`
-console.log("micro-front-end-1");
+console.log("micro-front-end-----1");
